@@ -1,0 +1,25 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "YaserAppWoE",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "YaserWoE",
+  "start_url": "https://aqelsasal.github.io/YaserAqelApp/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://aqelsasal.github.io/company_logo.jpg",
+      "type": "image/jpeg",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": true,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ]
+}

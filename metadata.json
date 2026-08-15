@@ -1,0 +1,6 @@
+{
+  "name": "الحسابات وادارة المشاريع",
+  "description": "تطبيق مبسط ومصمم بشكل احترافي لإدارة وتتبع الحسابات والمشاريع، النفقات اليومية، العمال، الموردين والميزانية في موقع العمل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
